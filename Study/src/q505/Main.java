@@ -1,4 +1,4 @@
-package jungol;
+package q505;
 
 public class Main {
 
